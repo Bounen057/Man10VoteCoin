@@ -1,0 +1,6 @@
+name: Man10VotingCoin
+version: ${project.version}
+main: man10.red.man10votingcoin.Man10VotingCoin
+
+commands:
+  man10votecoin:
